@@ -1,5 +1,5 @@
 # QuizTemple
-![](https://img.shields.io/badge/release-v1.0-orange) ![](https://img.shields.io/badge/android-5.0%2B-brightgreen)
+![](https://img.shields.io/badge/release-v1.0-orange) ![](https://img.shields.io/badge/android-5.0%2B-brightgreen)<br/>
  [![LinkedIn](https://badgen.net/badge/LinkedIn/Shamanth-Naik/blue)](https://www.linkedin.com/in/shamanth-naik-1a339b1bb) [![LinkedIn](https://badgen.net/badge/LinkedIn/Prajwal-Bhat/blue)](https://www.linkedin.com/in/prajwal-bhat-b7b13b1bb) [![LinkedIn](https://badgen.net/badge/LinkedIn/Adokshaj-Bhandarkar/blue)](https://www.linkedin.com/in/adokshaj-bhandarkar-9a82211aa/) 
 
 
@@ -50,9 +50,7 @@
  </p>
  
 ## Downloads
-Download the **app-debug.apk** from this repo.
-                                     **OR**
-Click [**here**](https://drive.google.com/file/d/15P-n5KkechdTSZns7uvcFpgE0eV00Bbm/view?usp=sharing) to download the apk file and start playing **now**!
+Download the **app-debug.apk** from this repo.<br/>**OR**<br/>Click [**here**](https://drive.google.com/file/d/15P-n5KkechdTSZns7uvcFpgE0eV00Bbm/view?usp=sharing) to download the apk file and start playing **now**!
 
 
 
