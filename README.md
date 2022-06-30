@@ -49,7 +49,7 @@
  <img src="https://i.imgur.com/JjGj8i5.jpg" height="400" alt="QuizTemple-Developers"/>
  </p>
  
-## Downloads
+## Downloads ⬇️
 Download the **app-debug.apk** from this repo.<br/>**OR**<br/>Click [**here**](https://drive.google.com/file/d/15P-n5KkechdTSZns7uvcFpgE0eV00Bbm/view?usp=sharing) to download the apk file and start playing **now**!
 
 
