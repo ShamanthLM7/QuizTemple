@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132019778389",
+    "project_id": "quiztemple-2e4e2",
+    "storage_bucket": "quiztemple-2e4e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132019778389:android:29fa489cfa2b0e113475dc",
+        "android_client_info": {
+          "package_name": "com.example.quizztemple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132019778389-ls5624mc2nfth6jp3ld4e5j0s4375aek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDDsRuiIQCzmbf2Ihu9qHUkVjuK57g74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132019778389-ls5624mc2nfth6jp3ld4e5j0s4375aek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

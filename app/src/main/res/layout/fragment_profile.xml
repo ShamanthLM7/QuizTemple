@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+    <EditText
+        android:id="@+id/emailBox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/textbox"
+        android:drawableLeft="@drawable/email"
+        android:drawablePadding="10dp"
+        android:drawableTint="@color/colorPurple"
+        android:ems="10"
+        android:hint="Email Address"
+        android:inputType="textPersonName"
+        android:padding="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/propro" />
+
+    <EditText
+        android:id="@+id/nameBox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/textbox"
+        android:drawableLeft="@drawable/user"
+        android:drawablePadding="10dp"
+        android:drawableTint="@color/colorPurple"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:padding="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailBox" />
+
+    <EditText
+        android:id="@+id/passBox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/textbox"
+        android:drawableLeft="@drawable/password"
+        android:drawablePadding="10dp"
+        android:drawableTint="@color/colorPurple"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPersonName"
+        android:padding="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameBox" />
+
+    <Button
+        android:id="@+id/updateBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_3"
+        android:fontFamily="@font/roboto_bold"
+        android:text="update"
+        android:textColor="@color/color_white"
+        app:layout_constraintEnd_toEndOf="@+id/passBox"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/passBox"
+        app:layout_constraintTop_toBottomOf="@+id/passBox" />
+
+    <ImageView
+        android:id="@+id/propro"
+        android:layout_width="180dp"
+        android:layout_height="168dp"
+        android:background="#F4EEEE"
+        android:backgroundTint="#E8E1E1"
+        android:foregroundTint="@color/color_white"
+        android:src="@drawable/avatar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.096"
+        app:shapeAppearanceOverlay="@style/circular" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="92dp"
+        android:background="@drawable/button_3"
+        android:fontFamily="@font/roboto_bold"
+        android:text="logout"
+        android:textColor="@color/color_white"
+        app:layout_constraintEnd_toEndOf="@+id/passBox"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/passBox"
+        app:layout_constraintTop_toBottomOf="@+id/passBox" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

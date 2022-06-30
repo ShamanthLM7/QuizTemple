@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/arizonia</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_light</item>
+        <item>@font/roboto_medium</item>
+    </array>
+</resources>
