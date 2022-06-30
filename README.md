@@ -9,8 +9,7 @@
 
 ## Features
 - Attractive UI 🔥
-- Authentication features 🔒
-**eg.** Confirmation Mail, Forgot / Reset Password 
+- Authentication features 🔒 <br/><t/>**eg.** Confirmation Mail, Forgot / Reset Password 
 - Leaderboard System 🏆
 - Personal Profile Management 🧑
 - Spin the Wheel! 🎡
