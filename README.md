@@ -1,6 +1,9 @@
 # QuizTemple
 ![](https://img.shields.io/badge/release-v1.0-orange) ![](https://img.shields.io/badge/android-5.0%2B-brightgreen)<br/>
  [![LinkedIn](https://badgen.net/badge/LinkedIn/Shamanth-Naik/blue)](https://www.linkedin.com/in/shamanth-naik-1a339b1bb) [![LinkedIn](https://badgen.net/badge/LinkedIn/Prajwal-Bhat/blue)](https://www.linkedin.com/in/prajwal-bhat-b7b13b1bb) [![LinkedIn](https://badgen.net/badge/LinkedIn/Adokshaj-Bhandarkar/blue)](https://www.linkedin.com/in/adokshaj-bhandarkar-9a82211aa/) 
+ <br/>
+[![GitHub](https://badgen.net/badge/GitHub/Shamanth-Naik/purple)](https://github.com/ShamanthLM7) [![GitHub](https://badgen.net/badge/GitHub/Prajwal-Bhat/purple)](https://github.com/prajwalbhat-14) [![GitHub](https://badgen.net/badge/GitHub/Adokshaj-Bhandarkar/purple)](https://github.com/ad-okshaj) 
+ 
 
 
 - QuizTemple is a quiz application developed on and for Android with an attractive UI and best user experience!
