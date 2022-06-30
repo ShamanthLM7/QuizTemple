@@ -14,6 +14,7 @@
 - Attractive UI 🔥
 - Authentication features 🔒 <br/><t/>**eg.** Confirmation Mail, Forgot / Reset Password 
 - Leaderboard System 🏆
+- Wallet System 💰
 - Personal Profile Management 🧑
 - Spin the Wheel! 🎡
 
